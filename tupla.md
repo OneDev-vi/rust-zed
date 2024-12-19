@@ -1,0 +1,1 @@
+para printar o tupla o "prinln!" prcisssa estar em mode de debug "{:?}"
